@@ -1,4 +1,4 @@
-https://linyuxuanlin.coding.me/2017/07/17/%E7%A7%91%E6%8A%80/Wight/
+https://wiki-power.com/post/%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86/Hack.init().html
 * 解决了偏远地区难以架设线缆提供照明的问题
 * 解决了传统太阳能路灯难以自定义功能的问题
 * 解决了传统路灯无法与管理方进行数据交换的问题
