@@ -1,4 +1,4 @@
-https://wiki-power.com/post/%E6%AF%94%E8%B5%9B%E7%BB%8F%E5%8E%86/Hack.init().html
+https://wiki-power.com/Hack.init%28%29%E9%BB%91%E5%AE%A2%E9%A9%AC%E6%8B%89%E6%9D%BE/
 
 - 解决了偏远地区难以架设线缆提供照明的问题
 - 解决了传统太阳能路灯难以自定义功能的问题
